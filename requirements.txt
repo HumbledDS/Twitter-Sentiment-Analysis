@@ -1,0 +1,17 @@
+pandas
+numpy
+
+scikit-learn
+wordcloud
+matplotlib
+seaborn
+
+nltk
+transformers
+textblob
+#spacy
+
+
+#dill
+xgboost
+#catboost

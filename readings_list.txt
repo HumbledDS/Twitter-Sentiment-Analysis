@@ -1,0 +1,9 @@
+
+https://www.kaggle.com/datasets/jp797498e/twitter-entity-sentiment-analysis
+
+https://www.kaggle.com/code/kevinmorgado/twitter-sentiment-analysis-logistic-regression
+
+https://www.kaggle.com/code/abdallahwagih/twitter-sentiment-analysis#Import-Needed-Modules
+
+https://www.kaggle.com/code/payamamanat/bi-directional-lstm
+
